@@ -2,8 +2,11 @@
 import { Switch, Route } from 'react-router-dom';
 import './App.scss';
 import NavBar from './Components/NavBar';
+import PortfliosPage from './Pages/PortfoliosPage';
 import HomePage from './Pages/HomePage';
 import AboutPage from './Pages/AboutPage';
+import BlogsPage from './Pages/BlogsPage';
+import ContactPage from './Pages/ContactPage';
 
 function App() {
   return (
@@ -20,6 +23,15 @@ function App() {
             <Route path="/about" exact>
               <AboutPage />
             </Route>
+            <Route path="/portfolios" exact>
+                <PortfliosPage />
+              </Route>
+            <Route path="/blogs" exact>
+                <BlogsPage />
+              </Route>
+              <Route path="/contact" exact>
+                <ContactPage />
+              </Route>
 
           </Switch>
         </div>

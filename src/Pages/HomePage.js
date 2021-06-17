@@ -14,10 +14,8 @@ function HomePage() {
                     <span> RAHAT.</span>
                 </h1>
                 <p className="h-sub-text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Cupiditate facere, numquam vitae placeat consequatur corrupti officia
-                    quibusdam. Blanditiis doloremque nemo ex facilis neque.
-                    A sint ipsam earum nemo omnis et.
+                    I'm a web developer since 2020, I started to develop Web Applications for one of my universities Club's Webpage.
+                    Starting from smaller projects, I ended up developing a fully functional Web Based Solution.I use my skils with pure dedication and deliver work on time.
                 </p>
                 <div className="icons">
                     <Link to="test" className="icon-holder">

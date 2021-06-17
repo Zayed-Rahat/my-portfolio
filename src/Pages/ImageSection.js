@@ -8,11 +8,11 @@ function ImageSection() {
                 <img src={about} alt="" />
             </div>
             <div className="about-info">
-                <h4>I am<span> RAHAT</span></h4>
+                <h4>Hey, My name is<span> RAHAT</span></h4>
                 <p className="about-text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Voluptatum necessitatibus perferendis numquam dolorem cumque facilis.
-                    Desir per po la ta doso vi slone ve?
+                    I'm a web developer since 2020, I started to develop Web Applications for one of my universities Club's Webpage.
+                    Starting from smaller projects, I ended up developing a fully functional Web Based Solution.I use my skils with pure dedication and deliver work on time.
+
                 </p>
                 <div className="about-details">
                     <div className="left-section">
