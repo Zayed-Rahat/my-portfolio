@@ -1,6 +1,6 @@
 import React from 'react'
 import Tittle from '../Components/Tittle'
-import ImageSection from './ImageSection';
+import ImageSection from '../Components/ImageSection';
 import SkillsSection from '../Components/SkillsSection';
 import ServicesSection from '../Components/ServicesSection';
 import design from '../img/design.svg';

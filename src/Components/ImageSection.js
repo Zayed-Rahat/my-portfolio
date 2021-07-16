@@ -16,19 +16,38 @@ function ImageSection() {
                 </p>
                 <div className="about-details">
                     <div className="left-section">
-                        <p>Full Name</p>
+                        <p>Full Name</p> 
+                        
+                        <br/>
+
                         <p>Age</p>
+                        <br/>
+
                         <p>Nationality</p>
+                        <br/>
+
                         <p>Languages</p>
+                        <br/>
+
                         <p>Address</p>
 
                     </div>
                     <div className="right-section">
                         <p>: Ahammed Zayed Uddin Rahat</p>
+                        <br/>
+
                         <p>: 22</p>
+                        <br/>
+
                         <p>: Bangladeshi</p>
+                        <br/>
+
                         <p>: Bangla , Hindi , English</p>
+                        <br/>
+
                         <p>: Dhaka , Bangladesh</p>
+                    
+
 
                     </div>
                 </div>
