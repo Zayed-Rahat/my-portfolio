@@ -1,7 +1,6 @@
 import React from 'react';
-import { faGithub , faYoutube, faFacebook} from '@fortawesome/free-brands-svg-icons';
+import { faGithubSquare, faFacebookSquare,faInstagramSquare ,faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { Link } from 'react-router-dom';
 
 function HomePage() {
     return (
@@ -16,15 +15,18 @@ function HomePage() {
                     Starting from smaller projects, I ended up developing a fully functional Web Based Solution.I use my skils with pure dedication and deliver work on time.
                 </p>
                 <div className="icons">
-                    <Link to="test" className="icon-holder">
-                        <FontAwesomeIcon icon={faFacebook} className="icon fb" />
-                    </Link>
-                    <Link to="test" className="icon-holder">
-                        <FontAwesomeIcon icon={faGithub} className="icon gh" />
-                    </Link>
-                    <Link to="test" className="icon-holder">
-                        <FontAwesomeIcon icon={faYoutube} className="icon yt" />
-                    </Link>
+                <a href="https://github.com/Zayed-Rahat" className="icon-holder">
+                        <FontAwesomeIcon icon={faGithubSquare} className="icon gh" />
+                    </a>
+                    <a href="https://www.facebook.com/rahat.5129" className="icon-holder">
+                        <FontAwesomeIcon icon={faFacebookSquare} className="icon fb" />
+                    </a>
+                    <a href="https://bd.linkedin.com/in/ahammed-zayed-uddin-rahat-b254741b0" className="icon-holder">
+                        <FontAwesomeIcon icon={faLinkedin} className="icon fb"/>
+                    </a>
+                    <a href="https://www.instagram.com/zayed_rahat/?hl=en" className="icon-holder">
+                        <FontAwesomeIcon icon={faInstagramSquare} className="icon gh"/>
+                    </a>
                 </div>
             </header>
         </div>
