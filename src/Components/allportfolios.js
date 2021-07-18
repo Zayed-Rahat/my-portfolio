@@ -1,9 +1,6 @@
 import port1 from '../img/portImages/azurStore.png';
 import port2 from '../img/portImages/teleScope.png';
 import port3 from '../img/portImages/imgSearch.png';
-import port4 from '../img/portImages/port3.jpg';
-import port5 from '../img/portImages/maya-1.jpg';
-import port7 from '../img/portImages/port6.jpg';
 
 const portfolios = [
     {
