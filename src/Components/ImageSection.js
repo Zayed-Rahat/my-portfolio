@@ -51,7 +51,7 @@ function ImageSection() {
 
                     </div>
                 </div>
-                <button className="btn"><a href="https://drive.google.com/file/d/1rddYVRf8KrXHShp16yCYXZOsIpxGS0l7/view?usp=sharing">Download Cv</a></button>
+                <button className="btn"><a href="https://drive.google.com/file/d/1h6OHD9bTu-Pt6C0KtoMVN8WUz4ZmRjC-/view?usp=sharing">Download Cv</a></button>
             </div>
         </div>
     )

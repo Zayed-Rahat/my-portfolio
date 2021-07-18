@@ -2,10 +2,10 @@ import React from 'react'
 import Tittle from '../Components/Tittle'
 import ImageSection from '../Components/ImageSection';
 import SkillsSection from '../Components/SkillsSection';
-import ServicesSection from '../Components/ServicesSection';
+/* import ServicesSection from '../Components/ServicesSection';
 import design from '../img/design.svg';
 import intelligence from '../img/intelligence.svg';
-import gamedev from '../img/game-dev.svg';
+import gamedev from '../img/game-dev.svg'; */
 
 function AboutPage() {
     return (
@@ -24,7 +24,7 @@ function AboutPage() {
                 <SkillsSection skill={'Material UI & Ant Design'} progress={'65%'} width={'65%'} />
             </div>
 
-            <Tittle title={'Services'} span={'Services'} />
+          {/*   <Tittle title={'Services'} span={'Services'} />
             <div className="servives-container">
                 <ServicesSection image={design} title={'Web design'}
                     text={'Lorem ipsum dolor sit amet consectetur adipisicing elit.'}
@@ -37,7 +37,7 @@ function AboutPage() {
                 />
 
 
-            </div>
+            </div> */}
 
         </div>
     )
