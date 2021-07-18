@@ -1,6 +1,6 @@
 import port1 from '../img/portImages/azurStore.png';
 import port2 from '../img/portImages/teleScope.png';
-import port3 from '../img/portImages/port2.jpg';
+import port3 from '../img/portImages/imgSearch.png';
 import port4 from '../img/portImages/port3.jpg';
 import port5 from '../img/portImages/maya-1.jpg';
 import port7 from '../img/portImages/port6.jpg';
@@ -32,49 +32,14 @@ const portfolios = [
     },
     {
         id: 3,
-        category: 'Animation',
-        link1: 'www.github.com',
-        link2: 'www.github.com',
+        category: 'React',
+        link1: 'https://github.com/Zayed-Rahat/tp-img-search',
+        link2: 'https://tp-image-store-a24992.netlify.app',
         icon1: 'Github',
         icon2: 'Live',
         image: port3,
-        title: 'Autodesk Maya',
-        details: 'React JS, Node JS, Redux, mongoDB, Ant Design'
-
-    },
-    {
-        id: 4,
-        category: 'Javascript',
-        link1: 'www.github.com',
-        link2: 'www.github.com',
-        icon1: 'Github',
-        icon2: 'Live',
-        image: port4,
-        title: 'Vanilla Javascript Website',
-        details: 'React JS, Node JS, Redux, mongoDB, Ant Design'
-
-    },
-    {
-        id: 5,
-        category: 'Animation',
-        link1: 'www.github.com',
-        link2: 'www.github.com',
-        icon1: 'Github',
-        icon2: 'Live',
-        image: port5,
-        title: 'Autodesk Maya',
-        details: 'React JS, Node JS, Redux, mongoDB, Ant Design'
-    },
-    {
-        id: 6,
-        category: 'React Js',
-        link1: 'www.github.com',
-        link2: 'www.github.com',
-        icon1: 'Github',
-        icon2: 'Live',
-        image: port7,
-        title: 'Vanilla Javascript Website',
-        details: 'React JS, Node JS, Redux, mongoDB, Ant Design'
+        title: 'Image Search',
+        details: 'React JS, TailWind CSS'
 
     },
 ]

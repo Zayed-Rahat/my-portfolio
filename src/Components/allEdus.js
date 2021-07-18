@@ -27,7 +27,7 @@ const edus = [
         sub:"Secondary School Certificate",
         title: 'Govt. Muslim High School',
         link: 'https://gmhsctg.tsmts.com',
-        start : '2011',
+        start : '2014',
         end: '2016'
     }
 ];
