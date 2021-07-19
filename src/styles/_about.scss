@@ -61,7 +61,7 @@
     height: 0.3rem;
     left: 0;
     bottom: 0;
-    background-color: #a4acc4;
+    background-color: #b5bac7;
     transition: all 0.4s ease-in-out;
   }
   &:hover::after {
@@ -69,6 +69,7 @@
   }
   a {
     text-decoration: none;
+    color: #162f7a;
   }
 }
 
