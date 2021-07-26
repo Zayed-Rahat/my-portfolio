@@ -12,7 +12,7 @@ const portfolios = [
         icon2: 'Live',
         image: port1,
         title: 'AZUR Store ',
-        details: 'React JS, Node JS, Redux, mongoDB, Ant Design ,Cloudinary, Stripe'
+        details: 'React JS, Node JS, ES6, Redux, mongoDB, Ant Design ,Cloudinary, Stripe'
 
     },
     {
