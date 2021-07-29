@@ -18,6 +18,7 @@ function AboutPage() {
                 <SkillsSection skill={'Javascript'} progress={'85%'} width={'85%'} />
                 <SkillsSection skill={'ES6'} progress={'85%'} width={'85%'} />
                 <SkillsSection skill={'React Js'} progress={'85%'} width={'85%'} />
+                <SkillsSection skill={'C & C++'} progress={'80%'} width={'80%'} />
                 <SkillsSection skill={'Node Js'} progress={'75%'} width={'75%'} />
                 <SkillsSection skill={'SCSS & Tailwind CSS'} progress={'70%'} width={'70%'} />
                 <SkillsSection skill={'Python'} progress={'60%'} width={'60%'} />
