@@ -10,9 +10,9 @@ import gamedev from '../img/game-dev.svg'; */
 function AboutPage() {
   return (
     <div className="AboutPage">
-      <Tittle title={"About Me"} span={"About Me"} />
+      <Tittle title={"About Me"} />
       <ImageSection />
-      <Tittle title={"My Skills"} span={"My Skills"} />
+      <Tittle title={"My Skills"} />
       <div className="skillsContainer">
         <SkillsSection skill={"Html & CSS"} progress={"90%"} width={"90%"} />
         <SkillsSection skill={"Javascript"} progress={"85%"} width={"85%"} />
