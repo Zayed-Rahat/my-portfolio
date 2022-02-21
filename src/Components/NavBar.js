@@ -40,7 +40,7 @@ function Navbar() {
 
                 <footer className="footer">
                     <p>
-                        ©2021||All Rights Reserved, Rahat
+                        ©2022 || Rahat
                     </p>
                 </footer>
             </nav>
