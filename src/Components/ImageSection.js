@@ -38,7 +38,7 @@ function ImageSection() {
             <p>: Ahammed Zayed Uddin Rahat</p>
             <br />
 
-            <p>: 21</p>
+            <p>: 22</p>
             <br />
 
             <p>: Bangladeshi</p>
