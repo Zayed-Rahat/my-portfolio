@@ -4,17 +4,19 @@ import port3 from "../img/portImages/imgSearch.png";
 import port4 from "../img/portImages/teleScope.png";
 import port5 from "../img/portImages/sortingWeb.png";
 import port6 from "../img/portImages/guess_number.png";
+import port7 from "../img/portImages/skillUpAcademy.png";
+
 
 const portfolios = [
   {
     id: 1,
     category: "MERN",
-    link1: "https://github.com/Zayed-Rahat/azur-store-front",
-    link2: "https://rahat-ecommerce-project.web.app",
+    link1: "https://github.com/Zayed-Rahat/azur-academy-front",
+    link2: "https://main--skill-up-academy-818897.netlify.app",
     icon1: "Github",
     icon2: "Live",
-    image: port1,
-    title: "AZUR Store ",
+    image: port7,
+    title: "Skill Up Academy",
     details:
       "React JS, Node JS, ES6, Redux, mongoDB, Ant Design ,Cloudinary, Stripe",
   },
@@ -54,7 +56,7 @@ const portfolios = [
     details: "React JS",
    
   },
-  {
+ /*  {
     id: 5,
     category: "Front End",
     link1: "https://github.com/Zayed-Rahat/telescope-2021",
@@ -64,7 +66,7 @@ const portfolios = [
     image: port4,
     title: "Telescope",
     details: "HTML , CSS ,JavaScript",
-  },
+  }, */
   {
     id: 6,
     category: "React",

@@ -20,7 +20,7 @@ function HomePage() {
           for one of my universities Club's Webpage. Starting from smaller
           projects, I ended up developing a fully functional Web Based
           Solution.I use my skills with pure dedication and deliver work on
-          time.
+          time. Currently I'm learning blockchain.
         </p>
         <div className="icons">
           <a href="https://github.com/Zayed-Rahat" className="icon-holder">

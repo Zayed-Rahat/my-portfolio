@@ -38,7 +38,7 @@ function ImageSection() {
             <p>: Ahammed Zayed Uddin Rahat</p>
             <br />
 
-            <p>: 22</p>
+            <p>: 23</p>
             <br />
 
             <p>: Bangladeshi</p>
@@ -47,7 +47,7 @@ function ImageSection() {
             <p>: Bangla , Hindi , English</p>
             <br />
 
-            <p>: Dhaka , Bangladesh</p>
+            <p>: Chittagong , Bangladesh</p>
           </div>
         </div>
         <button className="btn">
