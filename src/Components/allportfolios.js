@@ -1,7 +1,8 @@
-import port1 from "../img/portImages/azurStore.png";
+// import port1 from "../img/portImages/azurStore.png";
+// import port4 from "../img/portImages/teleScope.png";
 import port2 from "../img/portImages/azurHotel.png";
 import port3 from "../img/portImages/imgSearch.png";
-import port4 from "../img/portImages/teleScope.png";
+
 import port5 from "../img/portImages/sortingWeb.png";
 import port6 from "../img/portImages/guess_number.png";
 import port7 from "../img/portImages/skillUpAcademy.png";
