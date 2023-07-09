@@ -26,7 +26,7 @@ function HomePage() {
           <a href="https://github.com/Zayed-Rahat" className="icon-holder">
             <FontAwesomeIcon icon={faGithubSquare} className="icon gh" />
           </a>
-          <a href="https://www.facebook.com/rahat.5129" className="icon-holder">
+          <a href="https://www.facebook.com/rahat.9215" className="icon-holder">
             <FontAwesomeIcon icon={faFacebookSquare} className="icon fb" />
           </a>
           <a
