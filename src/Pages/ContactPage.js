@@ -15,7 +15,7 @@ function ContactPage() {
         <div className="map-sect">
           {/*  eslint-disable-next-line */}
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d858.3142750770454!2d90.4297060360876!3d23.747505207013862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b96d36e92b81%3A0x67064be459d86cd9!2z4Ka44KeB4Kay4Kak4Ka-4KaoIOCmreCnguCmgeCmh-Cnn-CmviDgppzgpr7gpq7gp4cg4Kau4Ka44Kac4Ka_4Kam!5e1!3m2!1sen!2s!4v1623776995065!5m2!1sen!2s"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7374.164215681028!2d91.96961469999995!3d22.4635486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ad2fcabeece6c9%3A0xd6662ebaf1d07ff4!2sSheikh%20Russel%20Hall!5e0!3m2!1sen!2sbd!4v1694956920947!5m2!1sen!2sbd"
             width="600"
             height="450"
             style={{ border: 0 }}
@@ -32,12 +32,12 @@ function ContactPage() {
           />
           <ContactItem
             icon={email}
-            text1={"azurahat129@gmail.com"}
+            text1={"zayedrahat088@gmail.com"}
             title={"Email"}
           />
           <ContactItem
             icon={location}
-            text1={"সুলতান ভূঁইয়া জামে মসজিদ, Goran Rd, Dhaka 1219"}
+            text1={"Sheikh Russel Hall,CUET,Pahartali, Chittagong, Bangladesh"}
             text2={"Bangladesh"}
             title={"Address"}
           />

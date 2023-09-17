@@ -16,8 +16,7 @@ function HomePage() {
           <span> RAHAT.</span>
         </h1>
         <p className="h-sub-text">
-          I'm a web developer since 2020, I started to develop Web Applications
-          for one of my universities Club's Webpage. Starting from smaller
+         I started to develop Web Applications for one of my universities Club's Webpage. Starting from smaller
           projects, I ended up developing a fully functional Web Based
           Solution.I use my skills with pure dedication and deliver work on
           time. Currently I'm learning blockchain.
